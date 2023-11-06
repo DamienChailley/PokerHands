@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokerHands", "PokerHands\PokerHands.csproj", "{A515AB7C-7108-4362-9138-AFB1586C7240}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokerHandsUnitTests", "PokerHandsUnitTests\PokerHandsUnitTests.csproj", "{C9B3AB79-5FBD-4E15-A26B-4C26CDF7B28D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A515AB7C-7108-4362-9138-AFB1586C7240}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A515AB7C-7108-4362-9138-AFB1586C7240}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A515AB7C-7108-4362-9138-AFB1586C7240}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A515AB7C-7108-4362-9138-AFB1586C7240}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9B3AB79-5FBD-4E15-A26B-4C26CDF7B28D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9B3AB79-5FBD-4E15-A26B-4C26CDF7B28D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9B3AB79-5FBD-4E15-A26B-4C26CDF7B28D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9B3AB79-5FBD-4E15-A26B-4C26CDF7B28D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08934108-9F9E-4B60-A2F6-04BC03D20A5C}
+	EndGlobalSection
+EndGlobal
