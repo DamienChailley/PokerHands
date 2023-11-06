@@ -2,8 +2,8 @@
 {
 
     /// <summary>
-    /// Enumeration of the posible result of a rule.
-    /// A rule can have either None or One of the following types. (can have more than one).
+    /// Enumeration of the possible result of a rule.
+    /// A rule can have either None or One of the following values. (can have more than one).
     /// </summary>
     public enum Composition
     {
