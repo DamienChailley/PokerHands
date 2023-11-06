@@ -48,7 +48,7 @@ namespace PokerHands.Rules
             }
             else
             {
-                return new();
+                return new() { Composition = Composition.None };
             }
         }
     }
